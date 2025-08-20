@@ -6,3 +6,5 @@ Uso **Git/GitHub** para versionamento e compartilhamento de projetos.
 
 🔗 LinkedIn: [(https://www.linkedin.com/in/bruno-pereira-alves-275070379/)]  
 🔗 Projetos: confira meus repositórios
+
+#DesenvolvimentoProfissional #MarcaPessoal #LinkedIn #GitHub #PortfolioDeProjetos"
